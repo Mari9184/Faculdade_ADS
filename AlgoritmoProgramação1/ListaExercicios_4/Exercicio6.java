@@ -22,6 +22,6 @@ public class Main {
             contador++;
         }
 
-        System.out.printf("Este é o menor numero: %d%n", menor);
+        System.out.printf("Este é o menor numero: %d", menor);
     }
 }
