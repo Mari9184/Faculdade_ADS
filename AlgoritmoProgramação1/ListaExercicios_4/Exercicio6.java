@@ -8,7 +8,7 @@ public class Main {
 
         int contador = 1, numero, menor = 0;
 
-        while (contador <= 3) {
+        while (contador <= 10) {
             System.out.printf("Digite o %dº numero: ", contador);
             numero = ler.nextInt();
 
