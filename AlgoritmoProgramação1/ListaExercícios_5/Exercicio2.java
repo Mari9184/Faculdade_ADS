@@ -1,0 +1,33 @@
+import java.util.Scanner;
+
+public class Main{
+	public static void main(String[]args) {
+	    Scanner ler = new Scanner(System.in);
+	    int[] number = new int[10];
+	    
+	    
+		
+		for (int i=1; i<11; i++){
+		    System.out.printf("\n %d° Informe um numero", i);
+            number[i] = ler.nextInt();
+		}
+		
+		System.out.println("\n_____ Imprimindo números Impares_____");
+		
+		for(int i=0; i<10; i++){
+		    if (number[i] % 2 != 0) {
+		        System.out.println(number[i]);
+		    }
+		}
+		
+		System.out.println("\n_____ Imprimindo números Pares_____");
+		
+		for(int i=0; i<10; i++){
+	    	if (number[i] % 2 == 0){
+		        System.out.println(number[i]);
+		    }
+		}
+        
+        ler.close();
+	}
+}
