@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class Main1 {
+public class Main {
 
     public static int maior(int[] vetor) {
 
