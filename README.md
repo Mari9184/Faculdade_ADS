@@ -2,11 +2,11 @@
 
 Este repositório foi criado para organizar, documentar e armazenar todas as atividades práticas, laboratórios e projetos desenvolvidos ao longo do curso superior de Tecnologia em Análise e Desenvolvimento de Sistemas (ADS).
 
-> 💡 *Atividades diárias que realizo em minhas aulas no ambiente acadêmico.*
+>  *Atividades que realizo em minhas aulas no ambiente acadêmico.*
 
 ---
 
-## 📂 Estrutura do Repositório
+## Estrutura do Repositório
 
 O projeto está estruturado em pastas de acordo com as disciplinas e temas estudados:
 
@@ -15,7 +15,7 @@ O projeto está estruturado em pastas de acordo com as disciplinas e temas estud
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 As seguintes linguagens e ferramentas são utilizadas no decorrer das aulas:
 
@@ -24,7 +24,7 @@ As seguintes linguagens e ferramentas são utilizadas no decorrer das aulas:
 
 ---
 
-## 🚀 Como Executar os Projetos
+## Como Executar os Projetos
 
 Caso queira clonar este repositório e executar os códigos localmente, siga os passos abaixo:
 
@@ -46,6 +46,6 @@ Caso queira clonar este repositório e executar os códigos localmente, siga os 
 
 ---
 
-## 👤 Autora
+## Autora ✨
 
 *   **Mariane Santana da Silva** - [Mari9184](https://github.com)
